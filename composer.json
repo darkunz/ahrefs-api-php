@@ -1,0 +1,10 @@
+{
+    "name": "ahrefs/ahrefs-api-php",
+    "description": "Ahrefs-API Wrapper",
+    "autoload": {
+        "classmap": [
+            "./lib/AhrefsAPI.php",
+            "./lib/ArrayRules.php"
+        ]
+    }
+}
